@@ -13,7 +13,7 @@
 **Storage**: Managed using Streamlit's session state.
   
 **Inspiration**
-Scientists say that the human brain processes about 6,000 thoughts a day. To easily store the most useful of these thoughts, always have a simple method to save them, such as using the Idea Keeper app, where you can quickly jot down the things you want to remember.
+[Scientists say that the human brain processes about 6,000 thoughts a day. To easily store the most useful of these thoughts, always have a simple method to save them, such as using the Idea Keeper app, where you can quickly jot down the things you want to remember.](https://www.linkedin.com/posts/cabdiraxmaan_waxaa-saynisyahanadu-sheegaan-in-qofka-binaadamku-activity-7231905465863933952-98dG?utm_source=share&utm_medium=member_desktop)
 
 ## 🛠️ Installation
 

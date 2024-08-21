@@ -7,6 +7,13 @@
 - 🔐 **User Authentication:** Register and log in securely.
 - 📝 **Create, Edit, and Delete Ideas:** Manage your ideas effortlessly with a simple and intuitive interface.
 - 🔒 **Secure Storage:** Your ideas are private and accessible only by you.
+- Technology Stack
+**Frontend & Backend**: Streamlit
+**Security**: Passwords are securely hashed using bcrypt.
+**Storage**: Managed using Streamlit's session state.
+  
+**Inspiration**
+Scientists say that the human brain processes about 6,000 thoughts a day. To easily store the most useful of these thoughts, always have a simple method to save them, such as using the Idea Keeper app, where you can quickly jot down the things you want to remember.
 
 ## 🛠️ Installation
 
